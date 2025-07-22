@@ -4,7 +4,7 @@
 This project aims to predict the IMDb ratings of TV shows based on various features such as movie name, genre, year of release, and the number of votes. The goal is to build a Machine Learning model that can predict the IMDb rating of a given show or movie, using historical data from the IMDb Top 250 dataset.
 
 ## Dataset Link:
-[IMDb Top 250 Shows Dataset](link_to_dataset)
+[[IMDb Top 250 Shows Dataset](link_to_dataset)](https://www.kaggle.com/datasets/karkavelrajaj/imdb-top-250-shows)
 
 ## Project Requirements:
 ### Python Libraries:
@@ -106,6 +106,3 @@ This project aims to predict the IMDb ratings of TV shows based on various featu
 This project provides insights into predicting IMDb ratings for TV shows and movies, exploring various machine learning models and techniques to improve prediction accuracy. The project also emphasizes the importance of data preprocessing, feature engineering, and model evaluation for achieving reliable results.
 
 ---
-
-### Author:
-[Your Name or Username]
